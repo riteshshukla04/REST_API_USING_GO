@@ -14,12 +14,6 @@
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <B> Create User (Password is encrypted)</B>
 <br>
